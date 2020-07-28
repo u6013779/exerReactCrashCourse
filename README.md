@@ -12,14 +12,11 @@
 
 ## Link to tutorial
 
-* Express JS Crash Course (1 hour 14 min) https://www.youtube.com/watch?v=sBws8MSXN7A&t=1643s
+* Express JS Crash Course (1 hour 38 min) https://www.youtube.com/watch?v=sBws8MSXN7A&t=1643s
 
 ## Important concepts
 
-* Some more in-depth application concepts expanding on HTML, CSS, JavaScript, and Node.js
-  * JSON API
-  * Rendering templates on a server
-  * Static pages
+* To-do App
 
 ## Link to repository
 
