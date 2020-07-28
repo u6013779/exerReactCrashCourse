@@ -1,4 +1,4 @@
-# React Crash Course
+# React JS Crash Course
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Fork this assignment so you can work on your own copy.
