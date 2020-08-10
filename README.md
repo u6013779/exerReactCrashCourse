@@ -12,7 +12,7 @@
 
 ## Link to tutorial
 
-* Express JS Crash Course (1 hour 38 min) https://www.youtube.com/watch?v=sBws8MSXN7A&t=1643s
+* React JS Crash Course (1 hour 38 min) https://www.youtube.com/watch?v=sBws8MSXN7A&t=1643s
 
 ## Important concepts and notes
 
