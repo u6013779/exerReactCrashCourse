@@ -12,7 +12,8 @@
 
 ## Link to tutorial
 
-* React JS Crash Course (1 hour 38 min) https://www.youtube.com/watch?v=sBws8MSXN7A&t=1643s
+* 2021 Update: React JS Crash Course (1 hour 38 min) https://www.youtube.com/watch?v=w7ejDZ8SWv8
+* (older) React JS Crash Course (1 hour 38 min) https://www.youtube.com/watch?v=sBws8MSXN7A&t=1643s
 
 ## Important concepts and notes
 
